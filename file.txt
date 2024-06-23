@@ -1,2 +1,12 @@
 This is the line-1
 This is the line-2
+
+-----------
+
+info about python
+
+python is a programming language developed by guido van rossum
+
+
+-----------
+
