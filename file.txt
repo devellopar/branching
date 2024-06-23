@@ -14,7 +14,7 @@ python is a programming language developed by guido van rossum
 
 java information
 
-java is developed by the sun microsystems in the year 1991
+java is developed by the sun microsystems in the year 1991 continued the java development
 
 
 -------------------
